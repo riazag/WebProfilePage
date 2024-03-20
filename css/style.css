@@ -1,0 +1,157 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.top-sec {
+  height: 55px;
+  display: flex;
+}
+.top-sec span a {
+  text-decoration: none;
+  color: rgb(164, 156, 156);
+  font-size: 11px;
+  font-weight: bolder;
+}
+.top-sec .right-item {
+  margin-top: 16px;
+  margin-left: 123px;
+}
+.top-sec .left-items {
+  margin-left: auto;
+  margin-right: 95px;
+  margin-top: 16px;
+}
+.top-sec .left-items a {
+  margin: 12px;
+}
+.img-sec {
+  height: 400px;
+  background: rgb(17, 170, 184);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img-sec img {
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.img-sec .p-1 {
+  color: rgb(239, 232, 232);
+  font-size: 15px;
+}
+.third-sec {
+  height: 200px;
+  background: rgb(77, 83, 97);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.third-sec #p-1 {
+  color: white;
+  font-size: 15px;
+  padding: 26px;
+}
+.third-sec #p-2 {
+  font-size: 11px;
+  color: white;
+  padding-bottom: 10px;
+}
+
+.third-sec .non-submit {
+  width: 77px;
+  height: 26px;
+  padding-left: 20px;
+  border-radius: 5px;
+  border: none;
+}
+.third-sec i {
+  margin-top: -20px;
+  margin-left: -51px;
+}
+.fourth-sec {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 470px;
+}
+.fourth-sec .p-t {
+  margin-top: 70px;
+  height: 30px;
+}
+.fourth-sec .links {
+  width: 100%;
+}
+.fourth-sec a {
+  color: rgb(49, 115, 148);
+  text-decoration: none;
+}
+.fourth-sec .links .link-1 {
+  margin-left: 15%;
+  margin-top: 32px;
+}
+/* 
+.link-sec-ln-2 {
+  margin: 14px;
+}
+.link-sec-ln-2 .l-2 {
+  padding: 66px;
+}
+.link-sec-ln-2 .l-3 {
+  padding: 45px;
+}
+.link-sec-ln-2 .l-4 {
+  padding: 60px;
+}
+.link-sec-ln-3 {
+  margin: -6px;
+}
+.link-sec-ln-3 .l-2 {
+  padding: 66px;
+}
+.link-sec-ln-3 .l-3 {
+  padding: 45px;
+}
+.link-sec-ln-3 .l-4 {
+  padding: 60px;
+}
+.link-sec-ln-4 {
+  margin: 4px;
+  margin-top: 15px;
+}
+.link-sec-ln-4 .l-2 {
+  padding-left: 238px;
+  margin-left: 265px;
+}
+.link-sec-ln-4 .l-3 {
+  padding-left: 238px;
+}
+.link-sec-ln-5 {
+  width: 100%;
+  margin-top: 15px;
+}
+.link-sec-ln-5 .l-2 {
+  padding-left: 83px;
+}
+.link-sec-ln-5 .l-3 {
+  padding-left: 111px;
+} */
+.ftr {
+  height: 150px;
+  background: rgb(77, 83, 97);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 10px;
+}
+.ftr a {
+  color: rgb(21, 56, 73);
+  text-decoration: none;
+}
